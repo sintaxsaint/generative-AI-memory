@@ -3,6 +3,7 @@
 **Copyright (c) 2026 Elliot Readman (sintaxsaint)**  
 **Original Concept Published: March 2026**  
 **GitHub: https://github.com/sintaxsaint**
+contact me at ereadman2013@gmail.com
 
 ---
 
